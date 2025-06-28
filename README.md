@@ -1,4 +1,3 @@
-# Accelerometer-Based-Display-Control-Altera-DE10-Lite-FPGA-Project
 # 📦 Accelerometer-Based Display Control – Altera DE10-Lite FPGA Project
 
 An educational project developed for the **Electronic Design Automation (EDA)** course, integrating an **SPI accelerometer** with an **Altera DE10-Lite FPGA platform**, using the **Nios II softcore processor** to control a **7-segment HEX display** based on device tilt.
